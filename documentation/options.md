@@ -8,7 +8,7 @@ package main
 import (
     "net/http"
 
-    "github.com/gostores/ace"
+    "github.com/govenue/ace"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
@@ -33,4 +33,4 @@ You can pass parsing options to the Ace template engine via `ace.Load`'s third a
 tpl, err := ace.Load("base", "inner", &ace.Options{DynamicReload: true})
 ```
 
-Please check [GoDoc](https://godoc.org/github.com/gostores/ace#Options) for more detail about options.
+Please check [GoDoc](https://godoc.org/github.com/govenue/ace#Options) for more detail about options.

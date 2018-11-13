@@ -1,7 +1,7 @@
 # Ace - HTML template engine for Go
 
 [![wercker status](https://app.wercker.com/status/8d3c657bcae7f31d10c8f88bbfa966d8/m "wercker status")](https://app.wercker.com/project/bykey/8d3c657bcae7f31d10c8f88bbfa966d8)
-[![GoDoc](http://godoc.org/github.com/gostores/ace?status.svg)](http://godoc.org/github.com/gostores/ace)
+[![GoDoc](http://godoc.org/github.com/govenue/ace?status.svg)](http://godoc.org/github.com/govenue/ace)
 
 ## Overview
 
@@ -82,18 +82,18 @@ Please check the following documentation.
 You can get the documentation about Ace via the following channels:
 
 * [Documentation](documentation) - includes the getting started guide and the syntax documentation.
-* [GoDoc](https://godoc.org/github.com/gostores/ace) - includes the API documentation.
+* [GoDoc](https://godoc.org/github.com/govenue/ace) - includes the API documentation.
 
 ## Discussion & Contact
 
 You can discuss Ace and contact the Ace development team via the following channels:
 
-* [GitHub Issues](https://github.com/gostores/ace/issues)
+* [GitHub Issues](https://github.com/govenue/ace/issues)
 * [Gitter (Chat)](https://gitter.im/yosssi/ace)
 
 ## Contributions
 
-**Any contributions are welcome.** Please feel free to [create an issue](https://github.com/gostores/ace/issues/new) or [send a pull request](https://github.com/gostores/ace/compare/).
+**Any contributions are welcome.** Please feel free to [create an issue](https://github.com/govenue/ace/issues/new) or [send a pull request](https://github.com/govenue/ace/compare/).
 
 ## Renderers for web frameworks
 
@@ -102,7 +102,7 @@ You can discuss Ace and contact the Ace development team via the following chann
 ## Tools
 
 * [vim-ace](https://github.com/yosssi/vim-ace) - Vim syntax highlighting for Ace templates
-* [ace-tmbundle](https://github.com/gostores/ace-tmbundle) - TextMate/Sublime syntax highlighting for Ace templates
+* [ace-tmbundle](https://github.com/govenue/ace-tmbundle) - TextMate/Sublime syntax highlighting for Ace templates
 * [atom-ace](https://github.com/pariz/atom-ace) - Atom Editor syntax highlighting for Ace templates
 
 ## Projects using Ace

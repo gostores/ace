@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gostores/ace"
+	"github.com/govenue/ace"
 	"github.com/yosssi/gohtml"
 )
 
